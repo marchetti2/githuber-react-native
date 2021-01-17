@@ -1,12 +1,16 @@
-## Githuber
+<h2>Githuber</h2>
 
 This project starts with the login screen where the user types his/her username on github and the application makes an API call. If the user exists, the next screen shows all the user's repositories and organizations, separated by tabbed browsing.
+
+<p align="center">
+ <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/cGzQEokvcSKqhmZPED/giphy.gif">
 </p>
 
-##  Dependencies
+<h2 id="technologies">Technologies</h2>
 
 - [react-native](https://reactnative.dev)
 - [react-navigation](https://reactnavigation.org)
@@ -20,10 +24,9 @@ This project starts with the login screen where the user types his/her username 
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
+<h2 id="started">Getting started</h2>
 
-## Getting started
-
-### Requirements
+<h4>Requirements</h4>
 
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
@@ -31,21 +34,17 @@ This project starts with the login screen where the user types his/her username 
 
 - [Cocoapods](https://cocoapods.org) (on macOS)
 
-
-
-**Clone the project and access the folder**
+<h4>Clone the project and access the folder</h4>
 
 ```bash
 $ git clone https://github.com/marchetti2/GitHuber.git && cd GitHuber
 ```
-
-**Install the dependencies**
+<h4>Install the dependencies</h4>
 
 ```bash
 $ yarn
 ```
-
-** if you are using macOS: **
+<h4>if you are using macOS:</h4>
 
 ```bash
 $ cd ios
@@ -54,18 +53,13 @@ $ cd ..
 $ yarn ios --simulator="iPhone 11"  
 ##choose the simulator you are using. in this example is iphone 11.
 ```
-
-** if you are using android: **
+<h4>if you are using android:</h4>
 
 ```bash
 $ cd ios
 $ yarn android
 ```
+<h4>Well done, project is started!</h4>
 
-
-
-** Well done, project is started!**
-
-##  License
-
+<h2 id="license">License</h2>
 This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
