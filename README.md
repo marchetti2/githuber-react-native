@@ -28,6 +28,8 @@ This project starts with the login screen where the user types his/her username 
 
 <h4>Requirements</h4>
 
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/) 
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
 > I recommend use Yarn
@@ -62,4 +64,5 @@ $ yarn android
 <h4>Well done, project is started!</h4>
 
 <h2 id="license">License</h2>
+
 This is a [RocketSeat](https://rocketseat.com.br) GoStack course project(old journey).
