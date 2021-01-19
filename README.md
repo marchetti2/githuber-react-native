@@ -58,7 +58,6 @@ $ yarn ios --simulator="iPhone 11"
 <h4>if you are using android:</h4>
 
 ```bash
-$ cd ios
 $ yarn android
 ```
 <h4>Well done, project is started!</h4>
