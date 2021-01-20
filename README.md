@@ -1,10 +1,12 @@
-<h2>Githuber</h2>
+<h2>About</h2>
 
 This project starts with the login screen where the user types his/her username on github and the application makes an API call. If the user exists, the next screen shows all the user's repositories and organizations, separated by tabbed browsing.
 
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/cGzQEokvcSKqhmZPED/giphy.gif">
