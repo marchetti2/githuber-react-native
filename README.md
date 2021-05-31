@@ -41,7 +41,7 @@ This project starts with the login screen where the user types his/her username 
 <h4>Clone the project and access the folder</h4>
 
 ```bash
-$ git clone https://github.com/marchetti2/GitHuber.git && cd GitHuber
+$ git clone https://github.com/marchetti2/githuber-react-native.git && cd githuber-react-native
 ```
 <h4>Install the dependencies</h4>
 
